@@ -2,13 +2,21 @@
 # Fils, Câbles et Gaines
 ## Fils & Câbles
 ### Sections en fonction du disjoncteur
-|Calibre disjoncteur|Section du conducteur|
+#### Disjoncteur divisionnaire
+| Calibre maximum disjoncteur (en amont) | Section du conducteur |
 |:--:|:--:|
 | 10A | 1,5 mm²|
 | 16A | 1,5 mm²|
 | 20A | 2,5 mm²|
 | 25A | 4 mm²|
 | 32A | 6 mm²|
+
+#### Disjoncteur de branchement monophasé
+| Calibre maximum disjoncteur (en amont)| Section du conducteur | Longueur max |
+|:--:|:--:|:--:|
+| 45A | 10 mm²| 22m |
+| 60A | 16 mm²| 27m |
+| 90A | 25 mm²| 28m |
 
 ## Gaines
 ### Types
