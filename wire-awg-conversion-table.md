@@ -1,4 +1,4 @@
-# Tableau de correspondance AWG mm2
+# Tableau de correspondance AWG / mm2
 
 
 |AWG|Diamètre (mm)|Nb spires/cm|Section (mm²)|Résistance linéique (Ω/km)|
