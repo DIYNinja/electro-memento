@@ -44,7 +44,7 @@
 |  110 |  |  | ✔ |
 |  160 |  |  | ✔ |
 
-### Nombre de conducteur par gaine en fonction de la section
+### Nombre de conducteur par gaine en fonction de la section (recommandation)
 |  Conducteur / ⌀ Gaine | 16 | 20 | 25 | 32 | 40 | 50 | 63 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |  1,5  mm² | 3 | 6 | 10 | 18 | 29 | 47 | 84 |
